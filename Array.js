@@ -1,11 +1,11 @@
 // const friendAge = [12,45,23,21,33,66];
 
-/* friendAge.push(100);
+friendAge.push(100);
 console.log(friendAge);
 friendAge.pop();
-console.log(friendAge); */ 
+console.log(friendAge); 
 
-/* let maxAge= friendAge[0];
+let maxAge= friendAge[0];
 for (let i = 0; i < friendAge.length; i++) {
     let element = friendAge[i];
     if(element < maxAge ){
@@ -13,9 +13,9 @@ for (let i = 0; i < friendAge.length; i++) {
     }  
     
     
-}console.log(maxAge); */ 
+}console.log(maxAge); 
 
-/* const value = [22,2224,34,21,67,34];
+ const value = [22,2224,34,21,67,34];
 let uniqueValue = [];
 for (let i = 0; i < value.length; i++) {
     const element = value[i];
@@ -25,7 +25,7 @@ for (let i = 0; i < value.length; i++) {
     }
     
 }
-console.log(uniqueValue); */ 
+console.log(uniqueValue); 
 
 
 function findOddNumber(number) {

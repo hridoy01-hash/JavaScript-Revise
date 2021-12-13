@@ -3,4 +3,5 @@ document.getElementById('alert').addEventListener('click',function(){
     document.body.style.backgroundColor = 'red';
     const setText  = document.getElementById('alert');
     setText.innerText = 'Hridoy Ahmed';
-})
+});
+
